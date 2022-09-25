@@ -33,14 +33,16 @@ div{
     background-color: #FFCCCB;
     text-align: right;
     margin-left: 50px;
-    border-width: 0px 0px 3px 10px;
+    border-left-width: 10px;
+    border-bottom-width: 3px;
 }
 
 .blue{
     background-color: #ADD8E6;
     text-align: left;
     margin-right: 50px;
-    border-width: 0px 0px 3px 10px;
+    border-right-width: 10px;
+    border-bottom-width: 3px;
 }
 
 span{
